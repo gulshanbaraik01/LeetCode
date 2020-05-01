@@ -1,2 +1,2 @@
-# LeetCode
-programming on the platform "LeetCode"
+#LeetCode
+###Programming Practice On The Platform "LeetCode"
